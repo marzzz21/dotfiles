@@ -1,5 +1,6 @@
 ### i3 Configuration
 This configuration is based on the this [i3wm Screencast](https://www.youtube.com/watch?v=j1I63wGcvU4&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf).
+
 [dotsfiles-repo](https://github.com/bookercodes/dotfiles/tree/ubuntu)
 
 ---
