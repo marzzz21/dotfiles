@@ -27,3 +27,12 @@ This configuration is based on this [i3wm Screencast](https://www.youtube.com/wa
 
 * FireFox Theme
 ⋅⋅* [Arc Firefox Theme](https://github.com/horst3180/arc-firefox-theme)
+
+* Rofi (alternative for dmenu)
+⋅⋅* [Rofi](https://davedavenport.github.io/rofi/)
+⋅⋅* *install compton to support opacity*
+
+* System Lock
+⋅⋅* [i3lock](https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen/)
+
+
