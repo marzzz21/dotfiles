@@ -7,32 +7,32 @@ This configuration is based on this [i3wm Screencast](https://www.youtube.com/wa
 
 ### Dependencies:
 * Font for icons on i3 workspaces
-⋅⋅* [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
-⋅⋅* [Font Awesome Chestsheet](http://fontawesome.io/cheatsheet/)
+  * [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
+  * [Font Awesome Chestsheet](http://fontawesome.io/cheatsheet/)
 
 * Font for text in i3 and system
-⋅⋅* [YosemiteSanFranciscoFont](https://github.com/supermarin/YosemiteSanFranciscoFont)
+  * [YosemiteSanFranciscoFont](https://github.com/supermarin/YosemiteSanFranciscoFont)
 
 * Better Font Rendering
-⋅⋅* [Infinality](http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html)
+  * [Infinality](http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html)
 
 * Wallpaper setter
-⋅⋅* [Nitrogen](http://projects.l3ib.org/nitrogen/)
+  * [Nitrogen](http://projects.l3ib.org/nitrogen/)
 
 * CLI interface for Media Player
-⋅⋅* [Playerctl](https://github.com/acrisci/playerctl)
+  * [Playerctl](https://github.com/acrisci/playerctl)
 
 * GTK Theme
-⋅⋅* [Arc Theme](https://github.com/horst3180/Arc-theme)
+  * [Arc Theme](https://github.com/horst3180/Arc-theme)
 
 * FireFox Theme
-⋅⋅* [Arc Firefox Theme](https://github.com/horst3180/arc-firefox-theme)
+  * [Arc Firefox Theme](https://github.com/horst3180/arc-firefox-theme)
 
 * Rofi (alternative for dmenu)
-⋅⋅* [Rofi](https://davedavenport.github.io/rofi/)
-⋅⋅* *install compton to support opacity*
+  * [Rofi](https://davedavenport.github.io/rofi/)
+  * *install compton to support opacity*
 
 * System Lock
-⋅⋅* [i3lock](https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen/)
+  * [i3lock](https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen/)
 
 
